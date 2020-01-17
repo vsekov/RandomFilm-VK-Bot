@@ -8,7 +8,7 @@ const { SessionManager } = require('@vk-io/session');
 var urll = "http://randomfilms.ru/film/";
 
 const vk = new VK({
-	token: "a5272af24f13757e5b467ccf337cf0f14515f84bccbfa829c2d6cfbdf49f0ab12b0d1c00e78a91823b30a"
+	token: "TOKEN"
 });
 
 
